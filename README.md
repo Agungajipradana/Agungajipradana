@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agungajipradana&label=Profile%20views&color=0e75b6&style=flat" alt="agungajipradana" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-six-pink-82.vercel.app/](https://my-portfolio-six-pink-82.vercel.app/)
+- 👨‍💻 All of my projects are available at https://agungajipradana.vercel.app/
 
 - 📫 How to reach me **agungajipradana@gmail.com**
 
