@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://agungajipradana.vercel.app/
 
-- 📫 How to reach me **agungajipradana@gmail.com**
+- 📫 How to reach me **agungajipradana.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
