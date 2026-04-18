@@ -20,7 +20,7 @@
 
 * 👨‍💻 All projects: https://agungajipradana.vercel.app/
 * 💡 Focus on Frontend & Fullstack Development
-* ⚡ Love building modern web apps
+* ⚡ Building modern web apps
 
 ---
 
