@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agung Aji Pradana</h1>
 <h3 align="center">Web Developer & QA Engineer</h3>
 <p align="center">
-  <a href="https://agungajipradana.vercel.app/">
-    🌐 Portfolio
-  </a> • 
+  <a href="https://agungajipradana.vercel.app/">🌐 Portfolio</a> • 
   📫 agungajipradana.business@gmail.com
 </p>
 <p align="center">
@@ -25,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-**🌐 Frontend & Fullstack**
+**💻 Web Developer**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,nestjs,nodejs,mysql,postgres" />
 </p>
@@ -40,8 +38,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agungajipradana&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agungajipradana&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agungajipradana&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agungajipradana&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agungajipradana&theme=tokyonight" height="160"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=agungajipradana&theme=tokyonight" height="160"/>
