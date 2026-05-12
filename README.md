@@ -30,7 +30,8 @@
 
 **🧪 QA & Testing**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,playwright,selenium,postman" />
+  <img src="https://skillicons.dev/icons?i=jest,selenium,postman" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50"/>
 </p>
 
 ---
