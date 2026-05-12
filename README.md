@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agung Aji Pradana</h1>
-<h3 align="center">A Passionate Web Developer</h3>
-
+<h3 align="center">Web Developer & QA Engineer</h3>
 <p align="center">
   <a href="https://agungajipradana.vercel.app/">
     🌐 Portfolio
   </a> • 
   📫 agungajipradana.business@gmail.com
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/agungajipradana/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -19,15 +17,22 @@
 ### 🚀 About Me
 
 * 👨‍💻 All projects: https://agungajipradana.vercel.app/
-* 💡 Focus on Frontend & Fullstack Development
-* ⚡ Building modern web apps
+* 💡 Focus on Web Developer & Software Quality Assurance
+* ⚡ Building modern web apps with high quality & reliability
+* 🧪 Experienced in manual & automated testing
 
 ---
 
 ### 🛠️ Tech Stack
 
+**🌐 Frontend & Fullstack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,postgres,git,figma,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,nestjs,nodejs,mysql,postgres" />
+</p>
+
+**🧪 QA & Testing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,playwright,selenium,postman" />
 </p>
 
 ---
@@ -38,9 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=agungajipradana&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agungajipradana&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungajipradana&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=agungajipradana&theme=tokyonight" height="160"/>
 </p>
 
 ---
